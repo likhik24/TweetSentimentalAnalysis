@@ -1,10 +1,5 @@
 
 
-/************************************************************
-    * This class requires two arguments:
-    *  input file - can be downloaded from http://www2.informatik.uni-freiburg.de/~cziegler/BX/BX-CSV-Dump.zip
-    *  output location - can be on S3 or cluster
-    *************************************************************/
 
 
 
